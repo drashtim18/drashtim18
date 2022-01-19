@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drashti mitaliya</h1>
-<h3 align="center">Conputer engineering student</h3>
+<h3 align="center">Computer engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashtim18&label=Profile%20views&color=0e75b6&style=flat" alt="drashtim18" /> </p>
 
